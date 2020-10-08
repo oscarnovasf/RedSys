@@ -1,13 +1,15 @@
 Pagos vía RedSys con SOAP y redirección
 ===
 
-[![license](https://img.shields.io/github/license/oscarnovasf/redsys)](LICENSE.md)
-
 >Librería para integrar en un módulo personalizado de *Drupal* y poder ejecutar
 >cobros a través de la pasarela RedSys.
 >
 >También puede ser utilizada fuera de un entorno *Drupal* adaptando los
 >correspondientes ***namespaces*** y ***uses***.
+
+[![version][version-badge]][changelog]
+[![Licencia][license-badge]][license]
+[![Donate][donate-badge]][donate-url]
 
 ## Instalación
 
@@ -431,5 +433,24 @@ Esta librería nace a partir del código de otras tres:
 * [ssheduardo/sermepa](https://github.com/ssheduardo/sermepa)
 * [eusonlito/redsys-Messages](https://github.com/eusonlito/redsys-Messages)
 
+Aquí puedes comprobar la lista de [contribuyentes][contributors]
+a este repositorio.
+
+## Histórico de cambios
+Aquí puedes comprobar la lista de [cambios][changelog] efectuados hasta el
+momento.
+
 ---
 ⌨️ con ❤️ por [Óscar Novás](https://oscarnovas.com) 😊
+
+[version]: v0.0.1
+[version-badge]: https://img.shields.io/badge/version-0.0.1-blue.svg
+
+[license]: LICENSE.md
+[license-badge]: https://img.shields.io/github/license/oscarnovasf/redsys
+
+[changelog]: CHANGELOG.md
+[contributors]: https://github.com/oscarnovasf/redsys/contributors
+
+[donate-badge]: https://img.shields.io/badge/Donate-PayPal-green.svg
+[donate-url]: https://paypal.me/oscarnovasf
